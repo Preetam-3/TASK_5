@@ -2,6 +2,8 @@
 
 A static world map built with plain HTML and CSS. All countries are drawn as an inline SVG, and no JavaScript is used.
 
+**Live demo:** [preetam-3.github.io/TASK_5](https://preetam-3.github.io/TASK_5/)
+
 ## Files
 
 - `index.html` – the page, containing the SVG map with one `<path>` per country
@@ -22,4 +24,4 @@ Edit `style.css`:
 
 ## Hosting
 
-Because it is fully static, the folder can be served by any static host, including GitHub Pages (use the `main` branch and the root folder).
+Because it is fully static, the folder can be served by any static host, including GitHub Pages (use the `main` branch and the root folder). It is currently deployed at <https://preetam-3.github.io/TASK_5/>.
